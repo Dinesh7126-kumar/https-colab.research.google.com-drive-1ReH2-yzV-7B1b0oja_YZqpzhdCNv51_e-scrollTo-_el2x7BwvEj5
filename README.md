@@ -36,4 +36,4 @@ The skills showcased here are valuable for roles in *data analysis, business int
 ---
 
 ## 👨‍💻 Author
-Dinesh
+Dinesh kumar
